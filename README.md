@@ -1,6 +1,15 @@
 # xray-mithril
 
-Interactive javascript object browser/inspector for mithril.js ([live demo](https://xray.haxtra.com))
+JavaScript object browser for Mithril.js
+
+[Live demo](https://xray.haxtra.com)
+
+![Screenshot](https://media.haxtra.com/xray.png)
+
+
+## Install
+
+	$ npm i xray-mithril
 
 
 ## Usage
@@ -72,3 +81,5 @@ Clickable areas:
 ## License
 
 MIT
+
+![](https://hello.haxtra.com/gh-xray-mithril)
